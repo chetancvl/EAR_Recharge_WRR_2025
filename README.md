@@ -22,7 +22,7 @@ The workflow uses machine learning and deep learning models (ERT, RF, XGBoost, H
 └── README.md
 
 ## ▶️ Running the Workflow
-1. **Download and unzip** the repository into any folder on your system.
+1. **Download and unzip** the Published release 'EAR_Recharge_Mnauscript_Data_Code_GitHub_v1.0.zip' into any folder on your system.
 2.  **Set up the environment**
 3. **Run the pipeline**:
     ```bash

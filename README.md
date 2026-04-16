@@ -5,6 +5,7 @@ This work is accepted in the Geoscience Frontiers journal and the article can be
 Advancing aquifer recharge forecasting through hybrid explainable AI and hydrological modeling:
 doi: https://doi.org/10.1016/j.gsf.2026.102336
 
+You might see slight changes in the published figures, but the changes are to enhance the quality of the figure with no change in the data.
 ## 📂 Repository Structure
 ├── Bexar_TWBD/ # Code and outputs for Bexar basin
 │ └── Results_Bexar/ # Model outputs

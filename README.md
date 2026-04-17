@@ -1,11 +1,11 @@
-# EAR_Recharge_WRR_2025
-This repository contains the code, input data, and outputs used for the recharge modeling study of the Bexar and Nueces basins in the Edwards Aquifer Region, Texas, USA.
-The workflow uses machine learning and deep learning models (ERT, RF, XGBoost, HGB, CNN) to predict recharge and validate against hydrological models (HSPF) and GRACE data. 
-This work is accepted in the Geoscience Frontiers journal and the article can be accessed here :
+# EAR_Recharge_GSF_2026
+This repository contains the code, input data, and model outputs used in the recharge modeling study for the Bexar and Nueces basins in the Edwards Aquifer Region, Texas, USA. The workflow integrates machine learning and deep learning approaches, including Extra Trees Regressor (ERT), Random Forest (RF), XGBoost, HistGradientBoosting (HGB), and Convolutional Neural Networks (CNN), to estimate aquifer recharge. Model performance is evaluated and validated against hydrological modeling results from HSPF and satellite-based GRACE observations.
+
+This work has been accepted for publication in Geoscience Frontiers :
 Advancing aquifer recharge forecasting through hybrid explainable AI and hydrological modeling:
 doi: https://doi.org/10.1016/j.gsf.2026.102336
 
-You might see slight changes in the published figures, but the changes are to enhance the quality of the figure with no change in the data.
+You might notice slight changes in the published figures; however, these changes were made only to improve figure quality and do not alter the underlying data.
 ## 📂 Repository Structure
 ├── Bexar_TWBD/ # Code and outputs for Bexar basin
 │ └── Results_Bexar/ # Model outputs
